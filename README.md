@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# ClubOS
 
-First, run the development server:
+AI Operating System for Organizations
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ClubOS is a modern workspace that helps organizations manage events, projects, teams, media, reports, and AI-powered workflows from a single platform.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Designed to replace scattered spreadsheets, folders, chats, and manual documentation with one intelligent operating system.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Features
 
-## Learn More
+- 📅 Event Management
+- 📂 Project Tracking
+- 📸 Media Library
+- 📝 Smart Report Generation
+- 🤖 AI Workspace
+- 👥 Team Collaboration
+- 📊 Organization Dashboard
+- 📈 Analytics & Insights
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- PostgreSQL
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Vision
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Organizations spend too much time managing operations instead of creating impact.
+
+ClubOS aims to become the operating system that powers communities, nonprofits, clubs, startups, educational institutions, and organizations through intelligent automation and AI.
+
+---
+
+## Current Status
+
+🚧 Version 0.1.0
+
+Currently under active development.
+
+The first milestone includes:
+
+- Dashboard
+- Weekly Planner
+- Event Management
+- AI Workspace
+- Authentication
+- Database Integration
+
+---
+
+## Future Roadmap
+
+- AI Report Generator
+- AI Media Organizer
+- Smart Event Assistant
+- Team Management
+- Role-Based Access Control
+- Analytics Dashboard
+- Mobile Support
+- Multi-Organization Workspaces
+
+---
+
+Built with using Next.js and Supabase.
